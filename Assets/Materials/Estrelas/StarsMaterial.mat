@@ -113,7 +113,7 @@ Material:
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
-    - _Cutoff: 0.59794426
+    - _Cutoff: 0.5973551
     - _CutoutThresh: 0.617
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
